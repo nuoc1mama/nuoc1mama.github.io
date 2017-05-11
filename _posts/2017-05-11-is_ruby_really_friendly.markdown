@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Is Ruby really friendly? 
-date:   2017-05-11 23:43:35 +0000
+date:   2017-05-11 19:43:35 -0400
 ---
 
 
