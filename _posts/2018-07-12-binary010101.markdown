@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Binary010101"
-date:       2018-07-12 19:07:06 +0000
+date:       2018-07-12 15:07:07 -0400
 permalink:  binary010101
 ---
 
