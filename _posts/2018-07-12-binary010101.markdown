@@ -1,0 +1,14 @@
+---
+layout: post
+title:      "Binary010101"
+date:       2018-07-12 19:07:06 +0000
+permalink:  binary010101
+---
+
+
+Binary is the abstraction of numbers down into 1's and 0's. ASCII is the abstraction of characters into numbers, then further into binary. That's how we get to talk to computers. (This is a reduction, but you can do your own research if you want more details.)
+
+Abstraction has always interested me. The fact that something so simple can evoke meaning to so many people is really powerful and - as we've seen in computing and art - has huge implications. Take, for example, Vasily Kandinsky's abstract paintings. They are efforts to document memory, but unlike a photo or a memoir, they depict memory as something much more slippery. Indeed, memory is incredibly slippery, its form changing endlessly in our minds as time goes on. At first, this effort feels frustrating as we grapple with what is being depicted. But, because of this grappling to create meaning where there is only form, we end up creating and building out on the original meaning. The meaning has grown and transformed with each new viewer. Now, this is probably frustrating for people who view meaning as fixed. It's also frustrating for me as I consider how a machine would see this painting - probably from its own perspective, a mapping of color and points. But the point is that abstraction both maintains its source content and demands expanded meaning. 
+
+Abstraction through binary distills content into its basest forms and forces us to also manipulate it into pieces we can feed to the machine. This should mean that once content is fed to a computer, it has increased its rationality, its solidity and steadfastness. However, a computer at its foundation is made up of on/off (0/1) switches and can therefore only handle binary decisions, but we are able to deal with ideas that exist in the gray zone as well as the black and white ideas. What we have to remember is that we've fed not only a distilled reality, but a limited one, to the computer. This is where we see so many confident big data analyses that are actually lacking representation from any number of identities. While I love to see information consolidated into tiny little bites, I also love to see it be analyzed by people, people who see how their own experiences are informing what they are looking at. 
+
